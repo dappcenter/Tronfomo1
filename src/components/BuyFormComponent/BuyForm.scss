@@ -1,0 +1,74 @@
+form {
+  width: 100%;
+}
+
+.form-container {
+  padding:0 0 0 0;
+
+  .form-title {
+    padding: 5px 0 10px;
+    font-size: 16px;
+  }
+  .user-input {
+    width: 46.5%;
+    height: 48px;
+    border: 1px solid #e7e7e7;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.13);
+    border-radius: 10px;
+    color: #000;
+    line-height: 18px;
+    background: none;
+    padding: 0 20px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-size: 18px;
+    font-weight: 700;
+
+  }
+  .user-input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+
+  .estimate-data {
+    width: 46.5%;
+    float: right;
+    height: 48px;
+    border: 1px solid #e7e7e7;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.13);
+    border-radius: 10px;
+    color: #000;
+    line-height: 18px;
+    background: gray;
+    padding: 0 10px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+
+  .estimate-sign {
+    font-size: 24px;
+    padding: 2px 0;
+  }
+  .estimate {
+    font-size: 18px;
+    float:right;
+    padding: 15px 0;
+    font-weight: bold;
+  }
+  .token {
+    color: darkred;
+  }
+
+  .form-button {
+
+    width:100%;
+    margin:15px 0 0;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+
+
