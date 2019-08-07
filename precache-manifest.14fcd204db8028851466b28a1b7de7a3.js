@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/p3d/static/media/telegramLogo.91747f02.png"
   },
   {
-    "revision": "5f560a35e26581c1d871",
+    "revision": "68f354a82b09291a43f8",
     "url": "/p3d/static/css/main.1b85402b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/p3d/static/media/TronLinkLogo.d3a8f115.png"
   },
   {
-    "revision": "5f560a35e26581c1d871",
-    "url": "/p3d/static/js/main.94b34634.chunk.js"
+    "revision": "68f354a82b09291a43f8",
+    "url": "/p3d/static/js/main.2c393fba.chunk.js"
   },
   {
     "revision": "271690b6a365d4d573bb6741bc3f7630",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/p3d/static/media/1553966631928.c9560b70.jpg"
   },
   {
-    "revision": "d22743cce0027187f4a4950ca40a76ab",
+    "revision": "e40e982512d1d43212f7ec794e73f502",
     "url": "/p3d/index.html"
   }
 ];
